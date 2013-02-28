@@ -2,6 +2,7 @@
 published: true
 title: Firstname Lastname
 class: First Year
+tags: committee-name
 preferred_email: firstnamelastname@email.com
 gravatar_email: firstnamelastname@email.com
 permalink: /people/firstname-lastname/
