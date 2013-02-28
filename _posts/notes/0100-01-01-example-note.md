@@ -8,4 +8,4 @@ tags: committee-name
 filepath: _posts/notes/0100-01-01-example-note.md
 ---
 
-Content goes here.
+Content goes here. Here's another sentence.
