@@ -1,4 +1,4 @@
-The website of [Cooper Union](http://cooper.edu)'s Art Student Council. Powered by [Jekyll](http://jekyllrb.com) and hosted by [Github Pages](http://pages.github.com).
+The website of [Cooper Union](http://cooper.edu)'s Architecture Student Council. Powered by [Jekyll](http://jekyllrb.com) and hosted by [Github Pages](http://pages.github.com).
 
 ---
 
@@ -8,7 +8,7 @@ The website of [Cooper Union](http://cooper.edu)'s Art Student Council. Powered 
 
 ### Clone / Fork / Push / Pull
 
-Anyone who is a [member of student council](https://github.com/CooperASC?tab=members) can directly create and edit any page on this site by cloning the repository and pushing changes back to Github.
+Anyone who is a [member of student council](https://github.com/CooperARSC?tab=members) can directly create and edit any page on this site by cloning the repository and pushing changes back to Github.
 
 ## Contributing to the Cooper ASC Website
 
@@ -18,7 +18,7 @@ For those who are not comfortable with Git's command line interface, Github has 
 
 ### Editing content online
 
-If you're just looking to create or edit content, you can [edit the site online with Prose.io](http://prose.io/#CooperASC/cooperasc.github.com). Simply sign into your Github account. Non student council members can also use Prose to make changes and submit them for review by a student council member.
+If you're just looking to create or edit content, you can [edit the site online with Prose.io](http://prose.io/#CooperARSC/cooperarsc.github.com). Simply sign into your Github account. Non student council members can also use Prose to make changes and submit them for review by a student council member.
 
 ### Best practices for file naming
 
@@ -64,7 +64,3 @@ To add a new person, create a file in `/_posts/people/` titled `0100-01-XX-First
     - name: Web and Social
       link: /committees/#web_and_social
     ---
-
-## Notifications
-
-You can get text notifications when things change by texting "Follow CooperASC" to 40404
