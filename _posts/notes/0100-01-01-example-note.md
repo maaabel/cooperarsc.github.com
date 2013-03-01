@@ -1,7 +1,7 @@
 ---
 title: Example Note
 notetaker: Firstname Lastname
-published: true
+published: false
 layout: notes-single
 category: notes
 tags: committee-name
