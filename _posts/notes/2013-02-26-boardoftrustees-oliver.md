@@ -48,7 +48,9 @@ RYAN CULLEN – School of Art
 
 ---
 
---------------------------------------------------------
+---
+
+-----------------------------------------------------
 *[Meeting formally begins at 3:08 PM and runs about 2h30.]*
 
 CASEY: [presents an agenda, a letter from Art Student Council regarding Early Decision deferral, and some art hometests.] I would like to start by talking about Early Decision deferral.
@@ -67,7 +69,7 @@ EPSTEIN: It hasn’t been attainable for the last four decades at least. Boards 
 
 CASEY: If you don’t see the scholarship as the best asset then you don’t have the same interests we do.
 
-ART STUDENT X: The scholarship preserves admission based solely on merit and not on an applicant’s finances. Wouldn’t charging even partial tuition change that?
+RYAN: The scholarship preserves admission based solely on merit and not on an applicant’s finances. Wouldn’t charging even partial tuition change that?
 
 EPSTEIN: Not in any way. It’s still merit-based admission, but probably over 50% of students have enough assets to be able to pay for school. Students of true need will still get a full scholarship. The scholarship reduction is only for those who can afford to pay.
 
