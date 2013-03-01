@@ -1,18 +1,11 @@
 ---
-layout: default
-published: true
----
-
----
-
-title: Hello [World]
+title: Board of Trustees meeting - Feb 26, 2013
 notetaker: Oliver Antoniu
 published: true
 layout: notes-single
 category: notes
 tags: committee-name
-filepath: _posts/notes/2013-02-28-Hello-World.md
-
+filepath: _posts/notes/2013-02-26-boardoftrustees-oliver.md
 ---
 
 *We were planning to have a document of minutes and a full transcript. This turned from the former into the latter. We will be fixing this small existential crisis but for now, thought it more useful to share in advance of the Board of Trustees forum.*
