@@ -15,7 +15,6 @@ filepath: _posts/notes/2013-02-28-Hello-World.md
 
 ---
 
-
 *We were planning to have a document of minutes and a full transcript. This turned from the former into the latter. We will be fixing this small existential crisis but for now, thought it more useful to share in advance of the Board of Trustees forum.*
 
 A##ttendees present:
@@ -50,10 +49,11 @@ CHE PEREZ – Fourth Year
 ZULAIKHA AYUB – School of Architecture
 
 NICHOLAS BREEZER – School of Engineering
+
 RYAN CULLEN – School of Art
 
 
-
+-----------------------------------------------------------
 *[Meeting formally begins at 3:08 PM and runs about 2h30.]*
 
 CASEY: [presents an agenda, a letter from Art Student Council regarding Early Decision deferral, and some art hometests.] I would like to start by talking about Early Decision deferral.
@@ -733,8 +733,3 @@ EPSTEIN: What principle? We can’t “start” with wee-need-money-give-us-mone
 CASEY: I disagree. When the students – 
 
 LAWRENCE: So I’m sorry, I don’t mean to cut you off, but I’d just like to thank everyone; I’d like to remind you that these are volunteer positions, and thank you, Mark; every meeting you’ve come to over the years, you’ve been over the allotted time. I’m sure the students appreciate it, and on that note, I think we should – I need to close the office up; I don’t mean to be rude but I have to close the office, so thank you.
-
- 
-
-
-
