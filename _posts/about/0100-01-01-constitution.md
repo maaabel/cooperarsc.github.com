@@ -1,6 +1,6 @@
 ---
 title: Constitution
-published: true
+published: false
 category: about
 layout: index
 permalink: /about/constitution/
