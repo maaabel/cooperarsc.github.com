@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published: true
 ---
 
 ---
@@ -17,7 +17,7 @@ filepath: _posts/notes/2013-02-28-Hello-World.md
 
 *We were planning to have a document of minutes and a full transcript. This turned from the former into the latter. We will be fixing this small existential crisis but for now, thought it more useful to share in advance of the Board of Trustees forum.*
 
-A##ttendees present:
+##Attendees present:
 
 ###[representatives of the Board of Trustees]
 MARK EPSTEIN – Chairman of the Board of Trustees 
