@@ -52,7 +52,9 @@ RYAN CULLEN – School of Art
 
 ---
 
------------------------------------------------------
+---
+
+--------------------------------------------------
 *[Meeting formally begins at 3:08 PM and runs about 2h30.]*
 
 CASEY: [presents an agenda, a letter from Art Student Council regarding Early Decision deferral, and some art hometests.] I would like to start by talking about Early Decision deferral.
@@ -127,7 +129,7 @@ RYAN: I’m curious as to why you couldn’t raise that amount or something clos
 
 EPSTEIN: You have to think about fundraising. This is not a Cooper thing; it’s a fundraising thing. People give you money because they have a goal. To get a building named after them, to get their name on a plaque.
 
-DE MENIL: Well ostensibly, you know, people’s motivation would be not so self-interested, but rather to give money to a school because they believe in a school, or to a symphony or a museum because they think the work that symphony or museum is good… You develop relationships over time and eventually if you’re fortunate.. Traditionally Cooper has not been successful in getting large donations. It’s a function of the composition of the board, of the development effort in general. Not so many years ago there was a new development director, and it’s a highly specialized job that involves a lot of effort and a very specific type of work. Presently we don’t have those “people that we know”; I’m sure you’ve heard the story that when the President asked the Mayor, the Mayor said “charge tuition, as much as you can”. As Mark explained, there’s a problem people have with contributing money to a school like this when there are families that can afford to play. It’s a long distance from the origins when perhaps the greatest percentage of the student body couldn’t pay. The environment has changed significantly. But there aren’t the funds anymore. It’s fine to say “let’s reimagine”, but practically speaking, what would your reimagination be?
+DE MENIL: Well ostensibly, you know, people’s motivation would be not so self-interested, but rather to give money to a school because they believe in a school, or to a symphony or a museum because they think the work that symphony or museum is good… You develop relationships over time and eventually if you’re fortunate.. Traditionally Cooper has not been successful in getting large donations. It’s a function of the composition of the board, of the development effort in general. Not so many years ago there was a new development director, and it’s a highly specialized job that involves a lot of effort and a very specific type of work. Presently we don’t have those “people that we know”; I’m sure you’ve heard the story that when the President asked the Mayor, the Mayor said “charge tuition, as much as you can”. As Mark explained, there’s a problem people have with contributing money to a school like this when there are families that can afford to pay. It’s a long distance from the origins when perhaps the greatest percentage of the student body couldn’t pay. The environment has changed significantly. But there aren’t the funds anymore. It’s fine to say “let’s reimagine”, but practically speaking, what would your reimagination be?
 
 ZULAIKHA: I’d like to shift the conversation because to ask a group of students with a very cursory knowledge might not be valuable. I can, at least, speak on behalf of Arch school in terms of what we do value, why, and what our fears are. One of the cornerstones of the Arch school is that the pedagogy is insulated from market trends, which preserves the principle of merit. How can you be sure that merit stays if you remove the scholarship, then? And how do you define what need-based is? 
 
@@ -343,8 +345,6 @@ CASEY: Well, it’s a difference, but the way we’re running our student counci
 EPSTEIN: How many people actually access them? How many people actually look at those records and access them?
 
 CASEY: A lot of people.
-
-[some yellin’]
 
 RYAN: Zulaikha made a really good point about back and forth right now and I think we’re getting nowhere. But I’m curious on where the Architecture school and student council stands on shrinking down. You guys have a really small school so it’s kind of hard to do that..
 
