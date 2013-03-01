@@ -9,4 +9,4 @@ This is where you explain what you do.
 
 ***
 
-🙇💭📨⚡ This is the footer of the index page, probably a good place to put your <a href="mailto:contact@email.com">contact email</a> and link to the <a href="/people">people</a> page.
+🙇💭📨⚡ In a short while, this is where you will find a <a href="mailto:contact@email.com">collective e-mail address</a> with which to reach <a href="/people">all student council members</a>.
