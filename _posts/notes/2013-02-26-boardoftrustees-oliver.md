@@ -46,7 +46,9 @@ NICHOLAS BREEZER – School of Engineering
 RYAN CULLEN – School of Art
 
 
------------------------------------------------------------
+---
+
+--------------------------------------------------------
 *[Meeting formally begins at 3:08 PM and runs about 2h30.]*
 
 CASEY: [presents an agenda, a letter from Art Student Council regarding Early Decision deferral, and some art hometests.] I would like to start by talking about Early Decision deferral.
@@ -113,11 +115,11 @@ EPSTEIN: You’re telling me that the Board is not willing to reduce benefits? D
 
 CASEY: I was at that meeting too and the faculty objected to your simplification of their position as “just raise more money”. Realistically we have a different view of what the school’s core asset is. You said “I don’t know what to go back to the board with if you’re just going to say “raise more money””.
 
-ART STUDENT: The capital campaign was to raise more money for that building?
+RYAN: The capital campaign was to raise more money for that building?
 
 EPSTEIN: It was about $60m raised for that building and other things as well. 
 
-ART STUDENT: I’m curious as to why you couldn’t raise that amount or something close to it with the new context of urgent need?
+RYAN: I’m curious as to why you couldn’t raise that amount or something close to it with the new context of urgent need?
 
 EPSTEIN: You have to think about fundraising. This is not a Cooper thing; it’s a fundraising thing. People give you money because they have a goal. To get a building named after them, to get their name on a plaque.
 
@@ -176,11 +178,11 @@ EPSTEIN: There are Alumni trustees. There is a system of checks and balances.
 
 CASEY: That’s not good enough and I don’t see a reason for not having faculty and student representatives on the Board. There are examples of private and public colleges that do have faculties on the board. Same with student representatives, and a petition from the Cooper students that, as of January, has 434 signatures. When you think about the size of the school.. The reasons for thee things have never been given and they’re getting less and less defensible.
 
-ART STUDENT: What are the board’s reasons for not having faculty members on the board?
+RYAN: What are the board’s reasons for not having faculty members on the board?
 
 EPSTEIN: We talk about a lot of confidential things.
 
-ART STUDENT: Like union issues?
+RYAN: Like union issues?
 
 EPSTEIN: Union issues are one of them. They wouldn’t let a trustee member sit in on union meetings. Go ask them. It’s just, things are discussed, and shouldn’t get out before decisions are made..
 
@@ -194,7 +196,7 @@ EPSTEIN: I never said the Attorney General…
 
 DE MENIL: What he said was that there’s a restricted portion of the endowment and in order to invade the restricted portion of the endowment 
 
-ART STUDENT: As you said, if you can’t pay your rent..
+RYAN: As you said, if you can’t pay your rent..
 
 EPSTEIN: Well that means you go into the corpus of the endowment.
 
@@ -216,7 +218,7 @@ CASEY: Like Zulaikha’s point, I think they would be able to properly articulat
 
 EPSTEIN: We don’t disagree with what you value; we value it more so. We just can’t afford it. To cut the budget by a third and “live within our means” is just not going to work. 
 
-ART STUDENT: “It wouldn’t work”? Are you saying it’s not possible?
+RYAN: “It wouldn’t work”? Are you saying it’s not possible?
 
 EPSTEIN: It’s possible. You could have one student and one teacher salary. How much do you want to cut that?
 
@@ -224,18 +226,18 @@ CASEY: You hire outside consultants and then make an offhand remark when someone
 
 EPSTEIN: No matter what we do, someone always tries to chop us down. This is the experience that we’ve had. Any step we take, there are people on the opposition side that is chopping it apart, and we’re between a rock and a hard place. Whatever we do, someone’s going to find a reason to shut down that and shut down the other thing. We did that, we should’ve done this. So we’re doing what we think is the best thing to do.
 
-ART STUDENT: But I’m saying, financially, would it work? Or is that just a language of saying that you don’t want it.
+RYAN: But I’m saying, financially, would it work? Or is that just a language of saying that you don’t want it.
 
 DE MENIL: It’s very complicated. In other words, if you reduce the student body, you reduce the faculty. It’s easy to reduce the student body – you just don’t let in so many students. Reducing the faculty involves documents issued that the Labor Relations Board gets involved in. It’s not so easy to take any of the schools and reduce them by a third. It’s easy to say, and it’s conceivable but you could reduce the school to much smaller than it is, and it might be able to work, but it involves such a vast and complete restructuring of everything that goes on here…
 
-ART STUDENT: It would be a “reinvention”.
+RYAN: It would be a “reinvention”.
 
 
 DE MENIL: It would be a reinvention, but I’m not sure how – 
 
 EPSTEIN: You’ve also got tenure. You can’t just cut tenure.
 
-ART STUDENT: Basically I’m just asking because the board of trustees and the administration wanted to have this conversation about revenue-generating academic programs. But I’m just wondering why there hasn’t been a conversation about what it would look like to cut the school down by a third.
+RYAN: Basically I’m just asking because the board of trustees and the administration wanted to have this conversation about revenue-generating academic programs. But I’m just wondering why there hasn’t been a conversation about what it would look like to cut the school down by a third.
 
 EPSTEIN: There hasn’t been a really heavy duty study on that because nobody really thinks that’s a viable solution.
 
@@ -340,7 +342,7 @@ CASEY: A lot of people.
 
 [some yellin’]
 
-ART STUDENT: Zulaikha made a really good point about back and forth right now and I think we’re getting nowhere. But I’m curious on where the Architecture school and student council stands on shrinking down. You guys have a really small school so it’s kind of hard to do that..
+RYAN: Zulaikha made a really good point about back and forth right now and I think we’re getting nowhere. But I’m curious on where the Architecture school and student council stands on shrinking down. You guys have a really small school so it’s kind of hard to do that..
 
 EPSTEIN: But it’s all visiting and adjuncts, isn’t it? Lawrence, do you have the number of adjuncts?
 
@@ -397,7 +399,7 @@ OLIVER: Okay. Do you have a comment on why the Engineering Early Decision studen
 
 EPSTEIN: Because between the revenue-generating and the faculty, and.. decisions haven’t really been finalized yet, so now we’re talking about things that aren’t completely finalized, but it appears that there’s going to be a solution to make the Engineering school, with the consent of the faculty, and with the Dean behind it, we see that as a way for it to be sustainable.
 
-ART STUDENT: I thought there was something in the Engineering plan that was dependent on whether all schools would charge tuition?
+RYAN: I thought there was something in the Engineering plan that was dependent on whether all schools would charge tuition?
 
 EPSTEIN: The plan was put forth by the Engineering school, we see a way for that school to be sustainable, so we can continue that school on a sustainable path, and Architecture too, on a sustainable path. With Art, though, it’s not obvious yet that there’s a sustainable path.
 
@@ -451,7 +453,7 @@ EPSTEIN: Well, you see, the trustees, we don’t get involved in the admissions 
 
 EPSTEIN: Explains a conversation he had with Dean Lipton whereby students are “numbered” according to their desirability. Argues that the admissions process won’t change much because the ranking numbers of the selectable students are still within a desirable range. 
 
-ART STUDENT: It might be easier, just by looking at numbers, to make a decision like that, but for Art and Architecture..
+RYAN: It might be easier, just by looking at numbers, to make a decision like that, but for Art and Architecture..
 
 CASEY: And you’re saying that not offering the scholarship won’t change that?
 
@@ -491,7 +493,7 @@ Then give me an alternative that brings money into the school, that we need. I k
 
 [moar hubbub]
 
-ART STUDENT: The Way Forward is a plan about living within our means. You’re putting forward a plan that involves charging tuition and the community is telling you that’s not going to work. The point is that tuition isn’t the only thing that could potentially work. 
+RYAN: The Way Forward is a plan about living within our means. You’re putting forward a plan that involves charging tuition and the community is telling you that’s not going to work. The point is that tuition isn’t the only thing that could potentially work. 
 
 CHE: Can you give us a little bit of information about the things that are happening in the development office?
 
@@ -530,7 +532,7 @@ ZULAIKHA: To go back to the Development office, are there activities that are co
 
 EPSTEIN: Brings up the penny donations to the student drive as fact. 
 
-ART STUDENT: Are you saying no Architecture and no Engineering students put just a penny in?	 
+RYAN: Are you saying no Architecture and no Engineering students put just a penny in?	 
 
 EPSTEIN: I don’t know that. I didn’t say that. But I said a lot of Art students did. That’s a real fact.
 
@@ -584,7 +586,7 @@ CHE: That’s what I wanted to get to.
 
 EPSTEIN: In the past, the school didn’t do a big development effort because it’s expensive. We have limited resources to do it with, but hopefully the development office pays off its “cultivation” investment.
 
-ART STUDENT: Question about relationship between academic excellence and scholarship. 
+RYAN: Question about relationship between academic excellence and scholarship. 
 
 EPSTEIN: If you went to another college besides Cooper. Did it ever matter to you if the next guy was paying or not? Because I went to Stony Brook for a year, and [there were various forms of subsidy], and nobody cared.
 
@@ -687,7 +689,7 @@ EPSTEIN: It’s the Reinvention committee, the Reinvention committee’s doing t
 
 LAWRENCE: It was actually to your point, Casey. She was the most recent Alumnus trustee, and in order to have the right kind of representation at the meeting, we, Mark, who appointed the committee, believed it was important to have an artist on the committee.
 
-ART STUDENT: So she was brought back to be on the committee?
+RYAN: So she was brought back to be on the committee?
 
 LAWRENCE: Not brought back, she’s on the committee.
 
