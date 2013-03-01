@@ -8,9 +8,9 @@ tags: committee-name
 filepath: _posts/notes/2013-02-26-boardoftrustees-oliver.md
 ---
 
-**THIS DOCUMENT IS PROVISIONAL. IT SHIFTS FROM SUMMARY MINUTES TO A MORE DETAILED ACCOUNT OF THE CONVERSATION. IN THE NEXT DAY OR TWO WE INTEND TO CREATE ONE SEPARATE MINUTES DOCUMENT AND ONE SEPARATE DETAILED RECORD, SO YOU CAN HAVE YOUR ACCURACY AND EAT YOUR CONVENIENCE TOO**.
+**THIS DOCUMENT IS PROVISIONAL. IT SHIFTS FROM SUMMARY MINUTES TO A MORE DETAILED ACCOUNT OF THE CONVERSATION. IN THE NEXT DAY OR TWO WE INTEND TO CREATE A SEPARATE SUMMARY AND A SEPARATE DETAILED RECORD. IT WAS A GREATER PRIORITY TO PUBLISH THIS IN ADVANCE OF THE BOARD FORUM THAN TO WAIT AFTERWARDS FOR TWO COMPLETE DOCUMENTS**.
 
-*There has been an increasing frequency with which statements are contradictory, factually incorrect, and/or claimed to have been not made with regards to current discussion on matters of the Cooper Union. Therefore, it is the belief of the Architecture Student Council that all participants of this meeting must have their statements represented with the utmost accuracy and in their proper context – as a personal right to each party, for the health and validity of public discussion, and for the guarantee of accurate Council representation. Given this, the Architecture Student Council has chosen to provide a detailed record in addition to minutes of this meeting.*
+*There has been an increasing frequency with which statements are contradictory, factually incorrect, and/or claimed to have been not made with regards to current discussion on matters of the Cooper Union. Therefore, it is the belief of the Architecture Student Council that all participants of this meeting must have their statements represented with the utmost accuracy and in their proper context – as a personal right to each party, for the health and validity of public discussion, and for the guarantee of accurate Council representation. Given this, the Architecture Student Council has chosen to provide (in the next day or two) a separate detailed record in addition to summary minutes of this meeting.*
 
 ##Attendees present:
 
