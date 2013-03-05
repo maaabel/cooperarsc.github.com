@@ -1,5 +1,5 @@
 ---
-title: Student Council Meeting
+title: Student Council Meeting - March 3, 2013
 notetaker: Mabel Jiang
 published: true
 layout: notes-single
