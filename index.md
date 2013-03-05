@@ -9,4 +9,4 @@ Lorem ipsum dolor si amet and all that is just so boring, isn't it? Wouldn't you
 
 ***
 
-🙇💭📨⚡ In a short while, this is where you will find a <a href="mailto:contact@email.com">collective e-mail address</a> with which to reach <a href="/people">all student council members</a>.
+🙇💭📨⚡ You can <a href="mailto:cooperarchcouncil@gmail.com">e-mail us</a> to reach <a href="/people">all student council members</a> at once.
